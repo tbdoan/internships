@@ -1,2 +1,5 @@
-# internships
-resource for internship finding
+# Internships
+✅ = Applied ⏱ = Interviewing ❌ = Rejected
+
+| Company | Location | Quarter | Tung | Dhanvi |
+| --------|----------|---------|------|--------|
