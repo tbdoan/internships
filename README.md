@@ -14,4 +14,9 @@
 | [Akuna Capital](https://akunacapital.com/job-details?gh_jid=3170900) | Chicago | Summer |  ✅ 10/16
 | [PayPal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Software-Engineer-Intern_R0075012) | CA, NY | Summer | ✅ 10/16
 | [Qualtrics](https://www.qualtrics.com/careers/us/en/job/600473/Software-Development-Engineer-in-Test-Summer-Intern) | Seattle | Summer |  ✅ 10/16
-| [Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/) | Seattle or SF | Summer | ✅ 10/16
+| [Pinterest](https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/) | Seattle or SF | Summer | ✅ 10/16 |
+| [Wish](https://jobs.smartrecruiters.com/Wish/743999766417964) | Toronto | Winter | ✅ 10/17 |
+| [Tesla SWE](https://www.tesla.com/careers/search/job/software-engineering-internship-spring-2022-98585), [Tools](https://www.tesla.com/careers/search/job/software-tools-developer-internship-spring-2022-98609) | Bay Area | Spring | ✅ 10/17
+| [Fractal](https://tryfractal.notion.site/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | NY | ??? |  ✅ 10/17
+| [Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Various | Summer | ✅ 10/17
+| [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | various | Summer | ✅ 10/17
