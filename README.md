@@ -20,3 +20,8 @@
 | [Fractal](https://tryfractal.notion.site/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | NY | ??? |  ✅ 10/17
 | [Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Various | Summer | ✅ 10/17
 | [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | various | Summer | ✅ 10/17
+| [Konrad](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | Toronto | Winter | ✅ 10/18
+| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/3339164?t=gh_src=?gh_jid=3339164&gh_src=ed898e781us) | SF,CA | Winter22/Summer22,Fall22 | ✅ 10/18
+| [Sigma](https://boards.greenhouse.io/sigmacomputing/jobs/4510690003) | SF,CA | Winter/Spring | ✅ 10/18
+| [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer_JR100559?d=cta-summer-view-sjb-1) | SF,CA and others | Summer | ✅ 10/18
+| [Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/) | SF or Seattle | Summer |  ✅ 10/18
