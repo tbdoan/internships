@@ -9,7 +9,7 @@
 | [Cruise](https://www.getcruise.com/careers/jobs/3476088/?department=2bGFusPlaxpzEPHPIb2QLK&isRemoteEligible=No&search=intern) | SF, CA | Summer | ✅ 10/15 | |
 | [Linkedin](https://www.linkedin.com/jobs/search/?currentJobId=2705876685&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area) | Remote | Winter | ✅ 10/15 |
 | [Linkedin UI](https://www.linkedin.com/jobs/search/?currentJobId=2705888275&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area), [SWE](https://www.linkedin.com/jobs/search/?currentJobId=2705883159&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area), [BE](https://www.linkedin.com/jobs/search/?currentJobId=2707291379&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area)| SF, CA | Summer | ✅ 10/15	|
-| [Instabase FS](https://instabase.com/careers/?gh_jid=5498192002), [FE](https://instabase.com/careers/?gh_jid=5498194002) | CA or NY | Winter/Spring/Summer | ✅ 10/15
+| [Instabase FS](https://instabase.com/careers/?gh_jid=5498192002), [FE](https://instabase.com/careers/?gh_jid=5498194002) | CA or NY | Winter/Spring/Summer | ❌ 10/21
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/3499036/) | CA or NY | Summer |  ✅ 10/16
 | [Akuna Capital](https://akunacapital.com/job-details?gh_jid=3170900) | Chicago | Summer |  ✅ 10/16
 | [PayPal](https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/Software-Engineer-Intern_R0075012) | CA, NY | Summer | ✅ 10/16
